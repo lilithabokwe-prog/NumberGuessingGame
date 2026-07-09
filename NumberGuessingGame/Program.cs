@@ -1,4 +1,6 @@
-﻿namespace NumberGuessingGame
+﻿using System;
+
+namespace NumberGuessingGame
 {
     internal class Program
     {
